@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Sophia Glasgow",
+    "email": "sophia.glasgow@uq.net.au",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "PhD Candidate and NAATI Accreddited Auslan-English Interpreter",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Brisbane",
+      "countryCode": "Australia",
       "region": ""
     },
     "profiles": [
@@ -33,7 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "The University of Queensland",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
