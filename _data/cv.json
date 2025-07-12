@@ -3,7 +3,7 @@
     "name": "Sophia Glasgow",
     "email": "sophia.glasgow@uq.net.au",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://sophia-glasgow.github.io",
     "summary": "PhD Candidate and NAATI Accreddited Auslan-English Interpreter",
     "location": {
       "address": "",
@@ -16,17 +16,17 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com.au/citations?user=YEq-GowAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0005-4503-8488"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sophia-glasgow",
+        "url": "https://github.com/sophia-glasgow"
       }
     ]
   },
@@ -34,19 +34,19 @@
   "education": [
     {
       "institution": "The University of Queensland",
-      "area": "Ph.D in Version Control Theory",
+      "area": "PhD: [PhD Title]",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "The University of Queensland",
+      "area": "Bachelor of Psychological Science (Honours)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
